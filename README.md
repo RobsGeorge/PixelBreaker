@@ -1,4 +1,6 @@
-# PixelBreaker
+# PixelBreaker (The CVC First Place Winner)
+
+Link to competition winners: http://alyosama.github.io/computer/vision/2018/05/03/CVC18.html
 
 Team members names :
 
